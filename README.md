@@ -43,12 +43,14 @@ __After robot test__
 
 ![Screenshot 2024-06-25 154258](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/d5dcce02-d663-4359-96e8-575af1b6f410)    
 
-__Main phishing page domain info:__    
+__Main phishing page domain info (checked on 2024-06-25):__    
 
-![Screenshot 2024-06-25 165305](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/24918a4e-41f1-4897-81cb-4f93017a8e78)
+![Screenshot 2024-06-25 165305](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/24918a4e-41f1-4897-81cb-4f93017a8e78)    
 
+![Screenshot 2024-06-25 171134](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/501e706d-874f-45bb-9185-f169c0253f1e)    
 
 ## IoCs    
+
 - Phishing domain #1 (in the email): hxxps://mhme[.]nu
 - Phishing domain #2 (in the compromised website): hxxps://nddoner.msk[.]su
 
