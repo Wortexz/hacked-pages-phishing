@@ -39,7 +39,7 @@ __Hiding behind Cloudflare:__
 
 ![Screenshot 2024-06-25 154325](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/4a4447d9-dbc1-448c-b28d-5aefee771260)
 
-__After robot test__    
+__After the robot test__    
 
 ![Screenshot 2024-06-25 154258](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/d5dcce02-d663-4359-96e8-575af1b6f410)    
 
@@ -48,6 +48,10 @@ __Main phishing page domain info (checked on 2024-06-25):__
 ![Screenshot 2024-06-25 165305](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/24918a4e-41f1-4897-81cb-4f93017a8e78)    
 
 ![Screenshot 2024-06-25 171134](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/501e706d-874f-45bb-9185-f169c0253f1e)    
+
+__What's hiding behind Cloudflare:__    
+
+![Screenshot 2024-06-25 203141](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/45a6d864-383a-4e1a-8a06-699fc1932b31)    
 
 ## IoCs    
 
