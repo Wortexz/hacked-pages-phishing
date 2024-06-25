@@ -25,7 +25,7 @@ VirusTotal after several hours - only 2 detections:
 
 __Phishing URL #1 (in the email) redirects to a compromised business page:__    
 
-Redacted information is compromised company name    
+__Redacted information is compromised company name__    
 
 ![Screenshot 2024-06-25 154240](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/d3d72fd5-a7ea-450b-9d53-aadfbeec12aa)
 
