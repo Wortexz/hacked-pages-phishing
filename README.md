@@ -11,7 +11,7 @@ Then, the hackers used his email account to send others phishing Emails. Just a 
 ![Screenshot 2024-06-25 162514](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/96a2ae3b-4f57-41bb-b33d-cb49bfb52b30)    
 
 ## Phishing URLs and pages    
-Something new - after a while NKSC (CERT-LT) started blocking this phishing URL.    
+NKSC (CERT-LT) blacklisted this phishing URL.    
 
 ![Screenshot 2024-06-25 154210](https://github.com/Wortexz/hacked-pages-phishing/assets/26935578/3c34cffe-f02f-4e83-916f-bfc9801c5b97)    
 
